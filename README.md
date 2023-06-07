@@ -13,119 +13,121 @@ https://drive.google.com/u/0/uc?id=1ZDXNl6Zs029tAQj_UyVjUdkL2MsaAq6H&export=down
 ---
 
 
-## 👀 플레이 화면
-
-![로그인회원가입.PNG](image/%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png)
+## 👀 서비스 화면
 
 ---
 
-![캐릭터선택.PNG](image/chaSelect.gif)
+!https://github.com/tayo5712/MeManChu/raw/main/image/chaSelect.gif
+
 ## 25가지의 개성있는 캐릭터!!
-<br>
 
 ---
-# 🏞️ 광장
 
-![광장1.PNG](image/readmeImage/mainsquare.png)
-![광장2.PNG](image/readmeImage/mainsquare2.png)
+# 🏞️ 광장
+
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/mainsquare.png
+
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/mainsquare2.png
 
 ## 유저들이 모여서 소통을 하거나 같이 뛰어놀 수 있는 공간
 
-<br>
-
----
-# 👻 호러하우스
-![호러1.PNG](image/readmeImage/horrorEntrance.png)
-
 ---
 
-![호러2.PNG](image/readmeImage/horror_people.png)
+# 👻 호러하우스
+
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/horrorEntrance.png
 
 ---
 
-![호러3.PNG](image/readmeImage/horror_interact.png)
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/horror_people.png
 
 ---
 
-![호러4.PNG](image/readmeImage/horror_zombies.png)
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/horror_interact.png
+
+---
+
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/horror_zombies.png
+
+![horrorFollow2 (2).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36b6ba2e-c6f6-44e6-8c2a-659b98a61d99/horrorFollow2_(2).gif)
 
 ---
 
 ## 다양한 오브젝트들과 상호작용하여 열쇠와 힌트를 얻고
+
 ## 귀신, 좀비 AI를 피하면서 탈출하는 게임
 
-<br>
-
----
-# 🏃‍♂️ 싸피런
-![싸피런1.PNG](image/readmeImage/runEntrance.png)
-
 ---
 
-![싸피런2.PNG](image/readmeImage/run1.png)
+# 🏃‍♂️ 싸피런
+
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/runEntrance.png
 
 ---
 
-![싸피런3.PNG](image/readmeImage/run2.png)
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/run1.png
+
+---
+
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/run2.png
 
 ---
 
 ## 여러 장애물들을 돌파하여 빠른시간안에 클리어하는 레이스게임
 
-<br>
-
----
-# 🔥 화재탈출
-![화재탈출1.PNG](image/readmeImage/fireEntrance.png)
-
 ---
 
-![화재탈출2.PNG](image/readmeImage/fire1.png)
+# 🔥 화재탈출
+
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/fireEntrance.png
 
 ---
 
-![화재탈출3.PNG](image/readmeImage/fire2.png)
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/fire1.png
+
+---
+
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/fire2.png
 
 ---
 
 ## 화마를 피해 달아나 미션을 수행하여 재난에서 탈출하는 생존게임
 
-<br>
-
----
-# 🏚️ 거인의 집
-![거인1.PNG](image/readmeImage/giantEntrance.png)
-
 ---
 
-![거인2.PNG](image/readmeImage/giant1.png)
+# 🏚️ 거인의 집
+
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/giantEntrance.png
 
 ---
 
-![거인3.PNG](image/readmeImage/giant2.png)
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/giant1.png
+
+---
+
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/giant2.png
 
 ---
 
 ## 숨겨진 퀘스트들을 진행해 퀴즈를 풀어 거인의집을 탈출하는 추리게임
 
-<br>
-
----
-# 🏚️ 하늘발판
-![하늘1.PNG](image/readmeImage/stepEntrance.png)
-
 ---
 
-![하늘2.PNG](image/readmeImage/step1.png)
+# 🏚️ 하늘발판
+
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/stepEntrance.png
 
 ---
 
-![하늘3.PNG](image/readmeImage/step2.png)
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/step1.png
+
+---
+
+!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/step2.png
 
 ---
 
 ## 버프와 디버프가 걸려있는 발판에서 최대한 오래 살아남는 미니게임
-
 <br>
 
 ---
