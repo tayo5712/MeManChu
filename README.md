@@ -17,39 +17,37 @@ https://drive.google.com/u/0/uc?id=1ZDXNl6Zs029tAQj_UyVjUdkL2MsaAq6H&export=down
 
 ---
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/chaSelect.gif
+![캐릭터소개.PNG](image/charatorSelect.gif)
 
 ## 25가지의 개성있는 캐릭터!!
 
 ---
 
 # 🏞️ 광장
+![광장1.PNG](image/readmeImage/mainsquare.png)
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/mainsquare.png
-
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/mainsquare2.png
-
+![광장2.PNG](image/readmeImage/mainsquare2.png)
 ## 유저들이 모여서 소통을 하거나 같이 뛰어놀 수 있는 공간
 
 ---
 
 # 👻 호러하우스
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/horrorEntrance.png
+![호러1.PNG](image/readmeImage/horrorEntrance.png)
 
 ---
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/horror_people.png
+![호러2.PNG](image/readmeImage/horror_people.png)
 
 ---
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/horror_interact.png
+![호러3.PNG](image/readmeImage/horror_interact.png)
 
 ---
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/horror_zombies.png
+![호러4.PNG](image/readmeImage/horror_zombies.png)
 
-![horrorFollow2 (2).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36b6ba2e-c6f6-44e6-8c2a-659b98a61d99/horrorFollow2_(2).gif)
+![호러짚.PNG](image/readmeImage/horror_play.gif)
 
 ---
 
@@ -61,15 +59,15 @@ https://drive.google.com/u/0/uc?id=1ZDXNl6Zs029tAQj_UyVjUdkL2MsaAq6H&export=down
 
 # 🏃‍♂️ 싸피런
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/runEntrance.png
+![런1.PNG](image/readmeImage/runEntrance.png)
 
 ---
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/run1.png
+![런2.PNG](image/readmeImage/run1.png)
 
 ---
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/run2.png
+![런3.PNG](image/readmeImage/run2.png)
 
 ---
 
@@ -79,15 +77,15 @@ https://drive.google.com/u/0/uc?id=1ZDXNl6Zs029tAQj_UyVjUdkL2MsaAq6H&export=down
 
 # 🔥 화재탈출
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/fireEntrance.png
+![불1.PNG](image/readmeImage/fireEntrance.png)
 
 ---
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/fire1.png
+![불2.PNG](image/readmeImage/fire1.png)
 
 ---
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/fire2.png
+![불3.PNG](image/readmeImage/fire2.png)
 
 ---
 
@@ -97,15 +95,15 @@ https://drive.google.com/u/0/uc?id=1ZDXNl6Zs029tAQj_UyVjUdkL2MsaAq6H&export=down
 
 # 🏚️ 거인의 집
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/giantEntrance.png
+![거인1.PNG](image/readmeImage/giantEntrance.png)
 
 ---
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/giant1.png
+![거인2.PNG](image/readmeImage/giant1.png)
 
 ---
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/giant2.png
+![거인3.PNG](image/readmeImage/giant2.png)
 
 ---
 
@@ -115,15 +113,15 @@ https://drive.google.com/u/0/uc?id=1ZDXNl6Zs029tAQj_UyVjUdkL2MsaAq6H&export=down
 
 # 🏚️ 하늘발판
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/stepEntrance.png
+![발판1.PNG](image/readmeImage/stepEntrance.png)
 
 ---
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/step1.png
+![발판2.PNG](image/readmeImage/step1.png)
 
 ---
 
-!https://github.com/tayo5712/MeManChu/raw/main/image/readmeImage/step2.png
+![발판3.PNG](image/readmeImage/step2.png)
 
 ---
 
