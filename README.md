@@ -17,7 +17,7 @@ https://drive.google.com/u/0/uc?id=1ZDXNl6Zs029tAQj_UyVjUdkL2MsaAq6H&export=down
 
 ---
 
-![캐릭터소개.PNG](image/charatorSelect.gif)
+![캐릭터소개.PNG](image/chaSelect.gif)
 
 ## 25가지의 개성있는 캐릭터!!
 
